@@ -30,8 +30,8 @@ https://docs.google.com/spreadsheets/d/1jghtoPsKXmayThhLKul3k8Bv7itkU7bpHOJKBp1q
 https://cacoo.com/diagrams/GWUWKuCczVbAvpqU/040FC  
 
 ### ER図
-![ER図](https://user-images.githubusercontent.com/45650777/204689357-4b57b5b9-fa3e-47a4-a109-2135f3f7073a.png)  
+![ER図](https://user-images.githubusercontent.com/45650777/204960248-e818cc34-a086-49d2-9ca6-cc4d24229bdb.png)  
 
 ### 画面遷移図  
-![画面遷移図](https://user-images.githubusercontent.com/45650777/204689476-24808c52-b0aa-4ff6-9fd0-191c9832b0f2.png)
+![画面遷移図](https://user-images.githubusercontent.com/45650777/204960277-13ab5e15-71ad-4eb0-b236-12a758635c9b.png)  
 
